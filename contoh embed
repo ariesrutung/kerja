@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+
+    <title>Learning About Embed | ariesrutung</title>
+  </head>
+  <body>
+<div class="embed-responsive embed-responsive-16by9 z-depth-1-half">
+<iframe id="ytplayer"  type="text/html" src="https://api.whatsapp.com/send?phone=6281248803652" frameborder="0" style="border:none; margin:0; padding:0; overflow:hidden; z-index:999999;"></iframe>
+</div>
+  </body>
+</html>
+
+
+.page-description {
+  display: none;
+}
+.woocommerce-product-details__short-description {
+  display: none;
+}
+
+.site-info {
+  display: none;
+}
+
+.sidebar {
+  display: none;
+}
+
+.skrollr .container {
+  display: none;
+}
+
+#static_header_banner {
+    height: 20vh;
+  background-color: #fff;
+}
+
+#static_header_banner .content-text {
+  display: none;
+}
+
+.rd-navbar-fixed .rd-navbar-nav-wrap {
+    position: fixed;
+    top: -56px;
+    left: 0;
+    width: 50%;
+    padding: 112px 0 56px;
+    bottom: -56px;
+    color: #999;
+  background-image: url(https://image.freepik.com/free-vector/yellow-background-with-dynamic-abstract-shapes_1393-144.jpg)
+}
+
+.rd-navbar-outer {
+    color: #999;
+    background: rgba(0,0,0,0.5);
+    position: relative;
+    z-index: 999;
+}
